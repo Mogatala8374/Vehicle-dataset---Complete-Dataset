@@ -232,7 +232,7 @@ This project demonstrates the complete machine learning workflow for predicting 
 
 ## 👨‍💻 Author
 
-**Yuvaraju Mogatala**
+**Mogatala Yuvaraju**
 
 B.Tech – Electronics and Communication Engineering (ECE)
 
